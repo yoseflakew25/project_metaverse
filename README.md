@@ -2,6 +2,6 @@
 
 ### [Live Site](https://project-metaverse-mocha.vercel.app/)
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+![Chat Application](https://github.com/yoseflakew25/project_metaverse/blob/main/12%20(1).png)
 
 
